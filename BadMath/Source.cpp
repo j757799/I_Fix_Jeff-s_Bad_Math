@@ -19,5 +19,7 @@ int main()
 
 	cout << setprecision(2) << fixed << showpoint << "The average is " << a << endl;
 
+	system("pause");
+
 	return 0;
 }
